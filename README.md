@@ -1,3 +1,3 @@
-# hello-world
-for test
-git and python
+# hello-world by Python
+# Python 2.7
+# author zhangxiaomei
