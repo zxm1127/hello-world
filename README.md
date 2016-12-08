@@ -1,3 +1,2 @@
-# hello-world
-for test
-git and python
+# Python 2.7
+# Hello-world
